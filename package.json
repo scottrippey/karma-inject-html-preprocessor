@@ -1,6 +1,6 @@
 {
   "name": "karma-inject-html-preprocessor",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Karma plugin to inject raw HTML (including scripts, styles, etc) directly into the test runner page",
   "main": "lib/index.js",
   "scripts": {
